@@ -1,6 +1,7 @@
 node_modules
 .next
-packages/**/*/package
+packages/**/dante1-legacy/package
+packages/**/dante2/package
 
 .vercel
 
